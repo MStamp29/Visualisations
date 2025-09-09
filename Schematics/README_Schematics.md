@@ -18,7 +18,8 @@ This folder contains examples of explanatory schematics I have created. I list t
 
 
 
-**PlasticityLocalAdaptationSchematic.png:**The different populations involved in a reciprocal transplant experiment and the way in which they can be used to determine the plastic component of phenotypic differences between populations. The green boxes indicate populations in their home environment, and purple boxes are populations that have been transplanted. The phenotypic difference observed between the individuals of the same population in different environments is identified as the difference due to plasticity. This figure appears in Stamp \& Hadfield, 2020 ([https://doi.org/10.1111/ele.13565](https://doi.org/10.1111/ele.13565))
+**PlasticityLocalAdaptationSchematic.png:** The different populations involved in a reciprocal transplant experiment and the way in which they can be used to determine the plastic component of phenotypic differences between populations. The green boxes indicate populations in their home environment, and purple boxes are populations that have been transplanted. The phenotypic difference observed between the individuals of the same population in different environments is identified as the difference due to plasticity. This figure appears in Stamp \& Hadfield, 2020 ([https://doi.org/10.1111/ele.13565](https://doi.org/10.1111/ele.13565))
+
 
 
 
